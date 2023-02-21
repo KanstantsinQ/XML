@@ -1,9 +1,11 @@
 <?xml version = "1.0"?>
 <info>
 <name>Kanstantsin</name>
+<surname>Sushko</surname>
 <films>James Bond, Dude wheres my car</films>
 <serial>Pirson break</serial>
 <food>mcdonalds</food>
 <time-year>winter</time-year>
 <country>the USA</country>
+<my-car>renault</mycar>
 </info>
